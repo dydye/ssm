@@ -11,6 +11,5 @@ public class Test {
 	public static void main(String[] args) {
 		String str = "测试";
 		String master = "master";
-		System.out.println("master");
 	}
 }
